@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:removed@example.invalid"><img src="https://img.shields.io/badge/Email-mathewconnect.uk%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/sottondatalabs"><img src="https://img.shields.io/badge/X-@sottondatalabs-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
