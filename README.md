@@ -53,7 +53,7 @@ Master's degree in **Applied Artificial Intelligence and Data Science**, UK.
 ### 📦 Open-source work
 
 - **[mattslib](https://github.com/mattsdata/mattslib)**: reusable, zero-dependency Python utilities (retry, typed config, TTL cache, structured logging, safe file I/O). Fully typed, 99% test coverage.
-- **[AI Lab](https://github.com/mattsdata/ai-lab)**: reusable AI packages and domain frameworks, built in two layers with an enforced dependency rule. Includes **vision** (model-independent object detection, YOLO backend, multi-object tracking) and **finance** (a corporate early warning system combining equity outlook with Merton-based credit risk).
+- **[AI Lab](https://github.com/mattsdata/ai-lab)**: reusable AI packages and domain frameworks, built in two layers with an enforced dependency rule. Includes **vision** (model-independent object detection, YOLO backend, multi-object tracking), **nlp** (sentiment analysis with a FinBERT backend and time-weighted aggregation) and **finance** (a corporate early warning system combining equity outlook with Merton-based credit risk).
 
 ---
 
