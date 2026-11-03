@@ -30,6 +30,8 @@ My background is in electronics engineering, and I began my career in IT.
 
 Applied AI and data roles across **UK banking**, the **World Bank**, and **Fortune 500** companies in the US.
 
+**Domains:** BFSI · Banking & Finance · Healthcare · Corporate · Aviation
+
 ### 🎓 Education
 
 Master's degree in **Applied Artificial Intelligence and Data Science**, UK.
@@ -56,5 +58,5 @@ Master's degree in **Applied Artificial Intelligence and Data Science**, UK.
 ---
 
 <p align="center">
-  📫 Open to <b>applied AI, machine learning and data engineering</b> roles in the UK and remote. Let's talk.
+  📫 Open to <b>applied AI research</b> and <b>middle-to-senior executive or management</b> roles in the UK. Let's talk.
 </p>
