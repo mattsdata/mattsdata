@@ -58,5 +58,5 @@ Master's degree in **Applied Artificial Intelligence and Data Science**, UK.
 ---
 
 <p align="center">
-  📫 Open to <b>applied AI research</b> and <b>middle-to-senior executive or management</b> roles in the UK. Let's talk.
+  📫 Open to <b>R&D (research and development) projects</b> and <b>middle-to-senior executive or management</b> roles in the UK. Let's talk.
 </p>
