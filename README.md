@@ -34,7 +34,7 @@ Applied AI and data roles across **UK banking**, the **World Bank**, and **Fortu
 
 ### 🎓 Education
 
-Master's degree in **Applied Artificial Intelligence and Data Science**, UK.
+**MS in Applied AI & Data Science**, UK.
 
 ### 🧰 Tech stack
 
